@@ -16,7 +16,7 @@ ENV GENERICCACHE_VERSION=2 \
     UPSTREAM_DNS="1.0.0.2" \
     BEAT_TIME=1h \
     LOGFILE_RETENTION=3560 \
-    CACHE_DOMAINS_REPO="https://github.com/uklans/cache-domains.git" \
+    CACHE_DOMAINS_REPO="https://github.com/Snorfull/cache-domains.git" \
     CACHE_DOMAINS_BRANCH=master \
     NGINX_WORKER_PROCESSES=auto
 
